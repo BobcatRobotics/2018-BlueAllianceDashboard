@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.eclipse.osgi_3.12.100.v20180210-1608.jar" sourcepath="C:/eclipse/plugins/org.eclipse.osgi_3.12.100.v20180210-1608.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.eclipse.core.commands_3.9.0.v20170530-1048.jar" sourcepath="C:/eclipse/plugins/org.eclipse.core.commands_3.9.0.v20170530-1048.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.eclipse.equinox.common_3.9.0.v20170207-1454.jar" sourcepath="C:/eclipse/plugins/org.eclipse.equinox.common_3.9.0.v20170207-1454.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.eclipse.equinox.registry_3.7.0.v20170222-1344.jar" sourcepath="C:/eclipse/plugins/org.eclipse.equinox.registry_3.7.0.v20170222-1344.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.eclipse.core.runtime_3.13.0.v20170207-1030.jar" sourcepath="C:/eclipse/plugins/org.eclipse.core.runtime_3.13.0.v20170207-1030.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.eclipse.text_3.6.100.v20170203-0814.jar" sourcepath="C:/eclipse/plugins/org.eclipse.text_3.6.100.v20170203-0814.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.106.3.v20180214-0345.jar" sourcepath="C:/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.106.3.v20180214-0345.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.eclipse.jface_3.13.2.v20171022-1656.jar" sourcepath="C:/eclipse/plugins/org.eclipse.jface_3.13.2.v20171022-1656.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.eclipse.jface.text_3.12.2.v20180112-1341.jar" sourcepath="C:/eclipse/plugins/org.eclipse.jface.text_3.12.2.v20180112-1341.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.eclipse.ui.workbench_3.110.1.v20170704-1208.jar" sourcepath="C:/eclipse/plugins/org.eclipse.ui.workbench_3.110.1.v20170704-1208.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.ibm.icu_58.2.0.v20170418-1837.jar" sourcepath="C:/eclipse/plugins/com.ibm.icu_58.2.0.v20170418-1837.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.eclipse.ui.forms_3.7.101.v20170815-1446.jar" sourcepath="C:/eclipse/plugins/org.eclipse.ui.forms_3.7.101.v20170815-1446.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/eclipse/3rdparty/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/3rdparty/gson-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/3rdparty/gson-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/3rdparty/poi/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/3rdparty/poi/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/3rdparty/poi/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/3rdparty/poi/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/3rdparty/poi/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/3rdparty/poi/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/3rdparty/poi/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/3rdparty/poi/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/3rdparty/poi/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/3rdparty/poi/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
